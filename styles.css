@@ -1,0 +1,22 @@
+body{
+    background-color: maroon;
+    color: white;
+    background-image: url('Yiga_Eye.webp');   
+    background-size: 5% 10%
+}
+p{
+    padding-left: 5%;
+}
+.things{
+    font-size:large;
+}
+.big{
+    font-size:x-large;
+}
+.tatical{
+    font-size:small;
+}
+.result{
+    font-size: small;
+    padding-left: 9%;
+}
